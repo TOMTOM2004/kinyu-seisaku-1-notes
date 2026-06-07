@@ -18,7 +18,7 @@
 | L07 | 経済の不確実性と金融政策 |
 | L08 | デフレと金融政策 |
 
-> 進捗は [lectures/STATUS.md](./lectures/STATUS.md) を参照。L09 以降は順次追加予定。
+> 進捗は [lectures/STATUS.md](./lectures/STATUS.md) を参照。
 
 ## 注意
 
